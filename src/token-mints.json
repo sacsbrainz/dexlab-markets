@@ -1,5 +1,73 @@
 [
       {
+            "address": "TKMKgSh3aADsmjr4yFWG52tkCQvmDxsQC1he1aBsi65",
+            "name": "TKMK"
+      },
+      {
+            "address": "HDfCYKD2V9fvYJaAv4usEyDGrwyxkEeKJk4gRCtrGvXP",
+            "name": "POWER"
+      },
+      {
+            "address": "7FntsntzGjK9PzPBbHLDJAFcKQVU14d2SbQZhgMUf2KA",
+            "name": "TOCO"
+      },
+      {
+            "address": "CCKDRAd4Xwjoovtf2s1duu3d4TPTmFRyh1hfrb3ZUGR2",
+            "name": "MILK"
+      },
+      {
+            "address": "j4cpRFecrtvEbdLYNZb4pg7eTLDSuxUZ1BA2ratQpNa",
+            "name": "ATL"
+      },
+      {
+            "address": "C6qep3y7tCZUJYDXHiwuK46Gt6FsoxLi8qV1bTCRYaY1",
+            "name": "LSTAR"
+      },
+      {
+            "address": "7Q9YbR4jPPaDsWsEngubW2z9PGfmWK7xn7AeewMm3qbT",
+            "name": "DLITE"
+      },
+      {
+            "address": "48A1pXHvottXTf954CMhZyoG7MdFjngLJCDKJS6iJUth",
+            "name": "$YAKUZA"
+      },
+      {
+            "address": "9yM42HMJnN69rhMGr8nCYSRtFxjWTWm5Z6GeucyLBEHg",
+            "name": "RAMENF"
+      },
+      {
+            "address": "FeEdorXhQh5jsr89XtD1s6txNkmXTPu9hhNpaYvPiQGJ",
+            "name": "ZUKI"
+      },
+      {
+            "address": "FT84xCFrgRbP39Yo49BiDWRii8ytb1f3rHZtQiDkC7sH",
+            "name": "DN"
+      },
+      {
+            "address": "7MKpy8PeNjQM3i4xWzGiZjDd97mq6m4QH6Q8jrXnsQ9L",
+            "name": "ZORG"
+      },
+      {
+            "address": "FDKBUXKxCdNQnDrqP7DLe8Kri3hzFRxcXyoskoPa74rk",
+            "name": "$YETI"
+      },
+      {
+            "address": "EEhosSQvC2yVDRXRGpkonGFF2WNjtUdzb48GV8TSmhfA",
+            "name": "AMMO"
+      },
+      {
+            "address": "FPLLD7wUku1wJsLc3MkGzY6jtpYvSDiNiQEUhkmSd385",
+            "name": "DOPEX"
+      },
+      {
+            "address": "DHxMYFZ6hZYtX4LXLkSHRN2UHFFezE5X6GkRCQNW1un9",
+            "name": "TQE"
+      },
+      {
+            "address": "ARg9wfeLN4qZTxgYTYeuGtGFMmYdk5zFhBuSnTfXXUvb",
+            "name": "CHI"
+      },
+      {
             "address": "GjdreVe7iUG4hyESSweGyFzgekWufhEwGJqAaa1hr7pf",
             "name": "WATT"
       },
@@ -114,10 +182,6 @@
       {
             "address": "ECPAzxsa4VBALQ4kh4i9mtUdRTBRhGwrzu7Y2YqwZjsi",
             "name": "BZT"
-      },
-      {
-            "address": "FHeU7e7Tyw5bNcCNiM1jNVoT5UUims7zRi3o76Kdz4f6",
-            "name": "VEGAS"
       },
       {
             "address": "FHeU7e7Tyw5bNcCNiM1jNVoT5UUims7zRi3o76Kdz4f6",
